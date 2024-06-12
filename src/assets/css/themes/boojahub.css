@@ -8018,6 +8018,7 @@ textarea.form-control-lg {
 
 .p-2 {
   padding: 0.5rem !important;
+  color: var(--bs-body-color);
 }
 
 .p-3 {
